@@ -1,0 +1,22 @@
+{
+  "name": "trovavoli",
+  "version": "1.0.0",
+  "description": "Bot telegram per la ricerca di voli low-cost",
+  "main": "TrovaVoli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizzi Luca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22",
+    "rapidapi-connect": "^0.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
